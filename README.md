@@ -1,6 +1,6 @@
 # Hi, I'm Donald Obeso 👋
 
-**Software Engineering Student & Full-Stack Developer** based in Cebu, Philippines. I specialize in architecting complex, role-driven web systems, database integrity models, and enterprise operations platforms using modern full-stack technologies.
+**IT Student & Full-Stack Developer** based in Cebu, Philippines. I specialize in architecting complex, role-driven web systems, database integrity models, and enterprise operations platforms using modern full-stack technologies assisted with AI agents.
 
 ---
 
@@ -30,10 +30,10 @@
 
 ---
 
-### 🏆 Featured Capstone Platform
+### 🏆 Featured Project: Capstone Project
 
 ## **KleenTech Auto Detailing — Multi-Branch Management Platform**
-*A full-stack enterprise operations platform engineered for a 4-branch automotive detailing network across Cebu (Cabahug Flagship, Avenir) and Metro Manila (BYD Alabang, BYD Las Piñas).*
+*A full-stack enterprise operations platform engineered for a 4-branch automotive detailing network across Cebu.
 
 #### 🚗 Vehicle-Tier Dynamic Pricing & Quota Engine
 * **5-Tier Vehicle Model:** Dynamic pricing and reservation fees tailored across 5 vehicle classes: **Sedan**, **SUV**, **Pickup**, **Van**, and **Motorcycle**.
@@ -42,10 +42,13 @@
 
 #### 👥 5-Role Operational Ecosystem
 * **Customer Portal:** Digital vehicle garage management, 5-step booking wizard, live appointment state tracking, self-service rescheduling, and penalty pardon appeal submissions.
-* **Receptionist Portal:** Walk-in customer and vehicle registration, physical service bay assignment, over-the-counter POS cashiering with downpayment balance settlements, and digital thermal receipts.
-* **Technician Portal:** Mobile-optimized floor queue with vehicle details, interactive package QA step checklists, customer push status triggers, and shift adjustment requests.
-* **Branch Manager Command:** Technician roster and weekly routine scheduling, physical bay capacity monitoring, localized service price override requests, and customer pardon reviews.
-* **Super Admin Suite:** Global multi-branch revenue intelligence, master service catalog governance, price request approvals, cross-branch staff provisioning, and immutable audit trails.
+  
+* **STAFF PORTAL**
+  
+* **Receptionist:** Walk-in customer and vehicle registration, physical service bay assignment, over-the-counter POS cashiering with downpayment balance settlements, and digital thermal receipts.
+* **Technician:** Mobile-optimized floor queue with vehicle details, interactive package QA step checklists, customer push status triggers, and shift adjustment requests.
+* **Branch Manager:** Technician roster and weekly routine scheduling, physical bay capacity monitoring, localized service price override requests, local-branch staff provisioning, and customer pardon reviews.
+* **Super Admin:** Global multi-branch revenue intelligence, master service catalog governance, price request approvals, cross-branch staff provisioning, and immutable audit trails.
 
 #### 🛡️ Database Architecture & Engineering Quality
 * **PostgreSQL 17 Row-Level Security (RLS):** Multi-tenant branch isolation using cached statement-level authorization (`(SELECT auth.uid())`) and atomic `SECURITY DEFINER` RPCs.
@@ -53,17 +56,12 @@
 * **Payment Security:** Serverless Deno Edge Functions handling PayMongo checkouts with cryptographic HMAC-SHA256 webhook signature verification and idempotency locks.
 * **Automated CI/CD Quality Gate:** GitHub Actions pipeline executing static typechecking, Vite production builds, ESLint validation, and Vitest unit testing suites on every push.
 
+> 🔒 *Repository is private under client confidentiality. System design walkthroughs and code samples are available during technical interviews.*
 ---
 
 ### 📂 Other Projects
 
-* **StudySync:** Collaborative student productivity and academic task tracking system built with C#.
+* **StudySync:** Collaborative student productivity and academic task tracking mobile app built with C#.
 * **Pet Adoption Management System:** Complete desktop workflow management application built with Windows Forms and Visual Basic .NET.
 
 ---
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=donaldobeso&show_icons=true&theme=tokyonight&hide_border=true" alt="Donald's GitHub Stats" />
-</p>
