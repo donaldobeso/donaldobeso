@@ -1,6 +1,6 @@
 # Hi, I'm Donald Obeso 👋
 
-**IT Student & Full-Stack Developer** based in Cebu, Philippines. I specialize in architecting complex, role-driven web systems, database integrity models, UI/UX designs, and enterprise operations platforms using modern full-stack technologies assisted with AI Agents.
+**IT Student & Full-Stack Developer** based in Cebu, Philippines. I created focus on building and architecting complex, role-driven web systems, database integrity models, UI/UX designs, and enterprise operations platforms using modern full-stack technologies. My projects are AI-assisted so I don't specialize in anything.
 
 ---
 
@@ -33,30 +33,18 @@
 ### 🏆 Featured Project: Capstone Project
 
 ## **KleenTech Auto Detailing — Multi-Branch Management Platform**
-*A full-stack enterprise operations platform engineered for a 4-branch automotive detailing network across Cebu.
+* An enterprise operations platform engineered for a multi-branch automotive detailing network across Cebu feauturing 5-role role-based access control (RBAC).
+**For more details:**
+  - 🏛️ **Architecture Showcase:** [donaldobeso/Kleentech-Auto-Detailing-Multi-Branch-Operations](https://github.com/donaldobeso/Kleentech-Auto-Detailing-Multi-Branch-Operations)
+  - 🌐 **Live Web Demo:** [kleentechcapstone.vercel.app](https://kleentechcapstone.vercel.app/)
+  - 🔒 **Core Codebase:** Private Enterprise Capstone Repository
+  - 🛠️ **Tech Stack:** React 19 • TypeScript • Tailwind CSS v4 • Supabase (PostgreSQL 17) • PayMongo • Web Push • Deno Edge Functions
+  - ⚡ **Engineering Highlights:**
+  - Real-time WebSocket bay dispatching & technician floor job queue
+  - 5-Tier RBAC with PostgreSQL Row-Level Security (RLS) & anti-escalation triggers
+  - Cryptographic payment verification (PayMongo HMAC-SHA256) inside Deno Edge Functions
+  - Automated CI/CD test & typecheck gates on GitHub Actions
 
-#### 🚗 Vehicle-Tier Dynamic Pricing & Quota Engine
-* **5-Tier Vehicle Model:** Dynamic pricing and reservation fees tailored across 5 vehicle classes: **Sedan**, **SUV**, **Pickup**, **Van**, and **Motorcycle**.
-* **Multi-Service Bundling:** Allows customers to bundle up to 4 specialized detailing services (Ceramic Coating, PPF, Detailing, Leather Reupholstery, Rustproofing, Window Tint) in a single visit with estimated inspection totals.
-* **Recurring Membership Quotas:** Subscription plans with automated monthly service quota allocations and online redemption.
-
-#### 👥 5-Role Operational Ecosystem
-* **Customer Portal:** Digital vehicle garage management, 5-step booking wizard, live appointment state tracking, self-service rescheduling, and monthly membership feauture.
-  
-**STAFF PORTAL**
-  
-* **Receptionist:** Walk-in customer and vehicle registration, physical service bay assignment, over-the-counter POS cashiering with downpayment balance settlements, and digital thermal receipts.
-* **Technician:** Mobile-optimized floor queue with vehicle details, interactive package QA step checklists, customer push status triggers, and shift adjustment requests.
-* **Branch Manager:** Technician roster and weekly routine scheduling, physical bay capacity monitoring, localized service price override requests, local-branch staff provisioning, and customer pardon reviews.
-* **Super Admin:** Global multi-branch revenue intelligence, master service catalog governance, price request approvals, cross-branch staff provisioning, and immutable audit trails.
-
-#### 🛡️ Database Architecture & Engineering Quality
-* **PostgreSQL 17 Row-Level Security (RLS):** Multi-tenant branch isolation using cached statement-level authorization (`(SELECT auth.uid())`) and atomic `SECURITY DEFINER` RPCs.
-* **Privilege Guard Triggers:** `BEFORE UPDATE` database triggers preventing unauthorized client modification of roles, branch assignments, and billing states.
-* **Payment Security:** Serverless Deno Edge Functions handling PayMongo checkouts with cryptographic HMAC-SHA256 webhook signature verification and idempotency locks.
-* **Automated CI/CD Quality Gate:** GitHub Actions pipeline executing static typechecking, Vite production builds, ESLint validation, and Vitest unit testing suites on every push.
-
-> 🔒 *Repository is private under client confidentiality. 
 ---
 
 ### 📂 Other Projects
