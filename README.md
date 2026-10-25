@@ -1,6 +1,6 @@
 # Hi, I'm Donald Obeso 👋
 
-**IT Student & Full-Stack Developer** based in Cebu, Philippines. I specialize in architecting complex, role-driven web systems, database integrity models, and enterprise operations platforms using modern full-stack technologies assisted with AI agents.
+**IT Student & Full-Stack Developer** based in Cebu, Philippines. I specialize in architecting complex, role-driven web systems, database integrity models, UI/UX designs, and enterprise operations platforms using modern full-stack technologies assisted with AI Agents.
 
 ---
 
@@ -41,9 +41,9 @@
 * **Recurring Membership Quotas:** Subscription plans with automated monthly service quota allocations and online redemption.
 
 #### 👥 5-Role Operational Ecosystem
-* **Customer Portal:** Digital vehicle garage management, 5-step booking wizard, live appointment state tracking, self-service rescheduling, and penalty pardon appeal submissions.
+* **Customer Portal:** Digital vehicle garage management, 5-step booking wizard, live appointment state tracking, self-service rescheduling, and monthly membership feauture.
   
-* **STAFF PORTAL**
+**STAFF PORTAL**
   
 * **Receptionist:** Walk-in customer and vehicle registration, physical service bay assignment, over-the-counter POS cashiering with downpayment balance settlements, and digital thermal receipts.
 * **Technician:** Mobile-optimized floor queue with vehicle details, interactive package QA step checklists, customer push status triggers, and shift adjustment requests.
@@ -56,7 +56,7 @@
 * **Payment Security:** Serverless Deno Edge Functions handling PayMongo checkouts with cryptographic HMAC-SHA256 webhook signature verification and idempotency locks.
 * **Automated CI/CD Quality Gate:** GitHub Actions pipeline executing static typechecking, Vite production builds, ESLint validation, and Vitest unit testing suites on every push.
 
-> 🔒 *Repository is private under client confidentiality. System design walkthroughs and code samples are available during technical interviews.*
+> 🔒 *Repository is private under client confidentiality. 
 ---
 
 ### 📂 Other Projects
