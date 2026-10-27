@@ -1,6 +1,6 @@
 # Hi, I'm Donald Obeso 👋
 
-**IT Student & Full-Stack Developer** based in Cebu, Philippines. I created focus on building and architecting complex, role-driven web systems, database integrity models, UI/UX designs, and enterprise operations platforms using modern full-stack technologies. My projects are AI-assisted so I don't specialize in anything.
+**BSIT Student | Aspiring Software Developer** based in Cebu, Philippines. I'm interested in web development and building practical software solutions. I enjoy creating full-stack applications and building systems that support real-world workflows.
 
 ---
 
@@ -18,7 +18,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL_17-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Deno](https://img.shields.io/badge/Deno_Edge_Functions-000000?style=for-the-badge&logo=deno&logoColor=white)
 
-#### Testing, CI/CD & Tooling
+#### Testing & Development Tools
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
@@ -33,23 +33,22 @@
 ### 🏆 Featured Project: Capstone Project
 
 ## **KleenTech Auto Detailing — Multi-Branch Management Platform**
-* An enterprise operations platform engineered for a multi-branch automotive detailing network across Cebu feauturing 5-role role-based access control (RBAC).
+* A client-based capstone project currently under development to centralize operational workflows for a multi-branch automotive detailing business in Cebu.
+* Project focus: Multi-branch operations, role-based access control (RBAC) for five user roles, and full-stack web application development.
+  
 **For more details:**
   - 🏛️ **Architecture Showcase:** [donaldobeso/Kleentech-Auto-Detailing-Multi-Branch-Operations](https://github.com/donaldobeso/Kleentech-Auto-Detailing-Multi-Branch-Operations)
   - 🌐 **Live Web Demo:** [kleentechcapstone.vercel.app](https://kleentechcapstone.vercel.app/)
-  - 🔒 **Core Codebase:** Private Enterprise Capstone Repository
+  - 🔒 **Core Codebase:** Private Business Capstone Repository
   - 🛠️ **Tech Stack:** React 19 • TypeScript • Tailwind CSS v4 • Supabase (PostgreSQL 17) • PayMongo • Web Push • Deno Edge Functions
-  - ⚡ **Engineering Highlights:**
-  - Real-time WebSocket bay dispatching & technician floor job queue
-  - 5-Tier RBAC with PostgreSQL Row-Level Security (RLS) & anti-escalation triggers
-  - Cryptographic payment verification (PayMongo HMAC-SHA256) inside Deno Edge Functions
-  - Automated CI/CD test & typecheck gates on GitHub Actions
+**Current Status:**
+* Development phase
 
 ---
 
 ### 📂 Other Projects
 
-* **StudySync:** Collaborative student productivity and academic task tracking mobile app built with C#.
-* **Pet Adoption Management System:** Complete desktop workflow management application built with Windows Forms and Visual Basic .NET.
+* **StudySync:** A C# .NET MAUI mobile application focused on student productivity, academic scheduling, and task management.
+* **Pet Adoption Management System:** A desktop application built with Visual Basic .NET and Windows Forms for managing pet adoption workflows.
 
 ---
