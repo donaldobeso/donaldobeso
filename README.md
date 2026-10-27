@@ -41,7 +41,6 @@
   - 🌐 **Live Web Demo:** [kleentechcapstone.vercel.app](https://kleentechcapstone.vercel.app/)
   - 🔒 **Core Codebase:** Private Business Capstone Repository
   - 🛠️ **Tech Stack:** React 19 • TypeScript • Tailwind CSS v4 • Supabase (PostgreSQL 17) • PayMongo • Web Push • Deno Edge Functions
-**Current Status:**
 
 ---
 
